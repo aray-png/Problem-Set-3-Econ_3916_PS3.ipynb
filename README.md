@@ -2,8 +2,6 @@
 
 **ECON 3916 · Applied Data Analytics · Module 2: Causal Thinking & SQL**
 
-Notebook: [`Econ_3916_PS3.ipynb`](Econ_3916_PS3.ipynb)
-
 Two analysts reported different average revenues for the same West-region customers: $824 and $1,257. This notebook rebuilds the warehouse in DuckDB, finds why the numbers differ, checks what silently disappears when a filter meets missing data, and tests whether the West account-management programme actually works. It closes with an AI-built query reviewer that catches these mistakes before they reach a slide.
 
 ## Memo to the Director
